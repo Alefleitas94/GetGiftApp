@@ -31,5 +31,10 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://alefleitas94.github.io/GetGiftApp/"
+  "homepage": "https://alefleitas94.github.io/GetGiftApp/",
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "enzyme-to-json": "^3.6.2"
+  }
 }
